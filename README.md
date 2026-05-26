@@ -115,7 +115,27 @@ This project demonstrates:
 - Random Data Generation
 
 ---
+## Why This Project?
 
+The Fake News Article Generator project was developed to practice real-world Python application development using only core Python concepts.
+
+The main objective of this project is to understand how structured content generation systems work without relying on machine learning, AI APIs, or external automation tools.
+
+This project helps demonstrate how dynamic text content can be generated using predefined templates, random data selection, modular programming, and file handling techniques.
+
+Key reasons for building this project:
+
+- To strengthen core Python programming skills
+- To practice modular project architecture
+- To understand dynamic content generation logic
+- To implement menu-driven application design
+- To learn JSON and text file exporting
+- To improve problem-solving using pure Python
+- To simulate a simplified content generation engine
+
+This project is especially useful for students and Python developers who want to build intermediate-level projects beyond basic calculators or simple games.
+
+It also serves as a portfolio project that demonstrates practical software development concepts such as structured coding, reusable modules, and automated data generation.
 ## Project Structure
 
 ```bash
