@@ -136,6 +136,14 @@ Key reasons for building this project:
 This project is especially useful for students and Python developers who want to build intermediate-level projects beyond basic calculators or simple games.
 
 It also serves as a portfolio project that demonstrates practical software development concepts such as structured coding, reusable modules, and automated data generation.
+
+## Project Purpose
+
+This project was created to practice core Python programming by building a dynamic content generation system.
+
+Instead of creating beginner-level projects, this project focuses on modular design, file handling, random data generation, and structured application development.
+
+It demonstrates how automated article generation can be implemented using only Python fundamentals.
 ## Project Structure
 
 ```bash
