@@ -1,8 +1,8 @@
-# Fake News Article Generator
+# Fake Newz Article Generator
 
-A Python-based Fake News Article Generator that creates fictional news articles using predefined templates, random data generation, and core Python programming concepts.
+A Python-based Fake Newz Article Generator that creates fictional newz articles using predefined templates, random data generation, and core Python programming concepts.
 
-This project simulates a simplified content generation system where users can generate fake news articles across multiple categories such as Politics, Technology, Business, and Entertainment.
+This project simulates a simplified content generation system where users can generate fake newz articles across multiple categories such as Politics, Technology, Business, and Entertainment.
 
 The project is built entirely using Core Python without any machine learning models, artificial intelligence APIs, or external automation frameworks.
 
@@ -10,7 +10,7 @@ The project is built entirely using Core Python without any machine learning mod
 
 ## Project Overview
 
-The Fake News Article Generator is a modular Python application designed to generate realistic-looking fictional news articles automatically.
+The Fake Newz Article Generator is a modular Python application designed to generate realistic-looking fictional newz articles automatically.
 
 The system creates:
 
@@ -19,7 +19,7 @@ The system creates:
 - Fake article content
 - Random author names
 - Publish dates
-- Category-specific news stories
+- Category-specific newz stories
 
 Generated news can be exported into:
 
@@ -32,8 +32,8 @@ This project demonstrates practical software development using Python fundamenta
 
 ## Features
 
-### News Generation
-Generate realistic fake news articles instantly.
+### Newz Generation
+Generate realistic fake newz articles instantly.
 
 Includes:
 
@@ -60,7 +60,7 @@ Each category contains custom article templates for more realistic output.
 
 ### Export Functionality
 
-Generated news can be saved as:
+Generated newz can be saved as:
 
 - Text File (.txt)
 - JSON File (.json)
